@@ -1,9 +1,8 @@
-*******************************************
-* April 2016                              *
-* M1CSA - PROGRAMMATION SCIENTIFIQUE - TP2*
-* ALAN GLEUHER				  *
-* YANN LE GUILLY                          *
-*******************************************
+
+# April 2016                              
+# Master's Degree: Computer Science & Modelisation
+# YANN LE GUILLY
+
 
 == PURPOSE ==
 
